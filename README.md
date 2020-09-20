@@ -131,3 +131,13 @@ CC BY 4.0 licence - https://creativecommons.org/licenses/by/4.0/
 * DCSync function in `lsadump` module was co-writed with Vincent LE TOUX, you can contact him by mail ( vincent.letoux [at] gmail.com ) or visit his website ( http://www.mysmartlogon.com )
 
 This is a **personal** development, please respect its philosophy and don't use it for bad things!
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
